@@ -1,2 +1,2 @@
-# Calculadora-B-sica-em-HTML-e-JS
+# Calculadora-Básica-em-HTML-e-JS
 Um projeto de calculadora básica.
