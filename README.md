@@ -1,11 +1,14 @@
 # Calculadora Básica em HTML e JS
 
-Foi o resultado de um desafio de programar uma calculadora em 30min, e isso foi oque consegui.
+Projeto criado em um desafio de 30 minutos. A calculadora permite fazer operações matemáticas simples e exibe a fórmula e o resultado separadamente.
 
-Ele possui um display que mostra a fórmula da conta que foi feita, e logo abaixo o display que aparece o resultado da conta.
+Funcionalidades:
+✅ Números de 0 a 9
+✅ Operadores: + - * /
+✅ Botão de = para calcular
+✅ Área da fórmula (exibe a conta digitada)
+✅ Área de resultado (mostra o resultado final)
 
-- Possui botões interativos
-- Funções matemáticas
-- Função limpar
+## Feita com HTML e JavaScript.
 
 ![image](https://github.com/user-attachments/assets/e9662693-f769-42a7-ab53-4df27a1ea92f)
