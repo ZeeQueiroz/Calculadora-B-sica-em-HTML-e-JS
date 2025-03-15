@@ -14,6 +14,6 @@ Funcionalidades:
 
 ✅ Área de resultado (mostra o resultado final)
 
-## Feita com HTML e JavaScript.
 
+## Feita com HTML e JavaScript.
 ![image](https://github.com/user-attachments/assets/e9662693-f769-42a7-ab53-4df27a1ea92f)
